@@ -1,5 +1,15 @@
 {
   "enabledPlugins": {
     "medusa-dev@medusa": true
+  },
+  "mcpServers": {
+    "medusa": {
+      "type": "http",
+      "url": "https://docs.medusajs.com/mcp"
+    },
+    "mercur": {
+      "type": "http",
+      "url": "https://docs.mercurjs.com/mcp"
+    }
   }
 }
